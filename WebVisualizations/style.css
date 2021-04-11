@@ -1,0 +1,136 @@
+.description-content {
+	margin-top: 30px;
+	margin-bottom: 60px;
+	padding: 10px 30px 5px;
+	color: black;
+	background-color: white;
+}
+
+.narvar-text {
+  background-color: white !important;
+  padding: 0rem;
+  padding-left: 2rem;
+}
+
+.nav-left {
+  padding-right: 2rem;
+}
+
+.nav-right {
+  height: 100%;
+}
+
+.webpagetitle {
+  background-color: #ffac2f;
+  color: rgb(53, 42, 42);
+  font-size: 25px;
+}
+
+.heading_text {
+  font-family: Arial;
+  padding: 0.5rem;
+  color: #1f1f1f !important;
+  height: 100%;
+  width: 30rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+}
+
+.background {
+  background-color: #3f3f3f;
+  justify-content: space-evenly;
+}
+
+.card-img-summary {
+  float: left;
+  width: 60%;
+  height: 60%;
+  }
+
+.card-padding {
+  padding: 2rem 0rem 2rem 2rem;
+}
+
+.data-card-padding {
+  padding-top: 3rem;
+  padding-left: 6rem;
+  padding-right: 5rem;
+  padding-bottom: 8rem;
+}
+
+h4 {
+  color: #202020;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 3rem 1.5rem 0;
+  font-size: 27px;
+}
+
+h5 {
+  color: #202020;
+  text-align: center;
+  background-color: #60b2ff;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 3rem 1.5rem 0;
+  font-size: 27px;
+}
+
+h6 {
+  color: #202020;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 3rem 1.5rem 0;
+  font-size: 25px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #666666;
+  padding: 15px;
+  border-top-style: solid;
+  border-top-color: #ffac2f;
+  border-top-width: 5px;
+}
+
+.img-viz{
+  border-style: solid;
+  border-color: #ffac2f;
+  border-width: medium;
+}
+
+.com-img{
+  margin: 0rem 3rem 2rem 3rem;
+
+}
+@media (max-width: 991px) {
+  .navbar-expand-lg { 
+    background-color: #ffac2f !important;
+  }
+
+  .navbar {
+    max-height: none;
+    padding: inherit;
+    color: rgb(95, 99, 109);
+  }
+  .navbar div {
+    margin: inherit;
+    background-color: rgb(95, 99, 109);
+  }
+  .navbar-brand {
+    padding: 10px;
+  }
+  button{
+    margin-right: 30px;
+  }
+
+  .navbar-light .navbar-toggler {
+    color: #888888;
+    border-color: #DDDDDD;
+  }
+
+  .card-padding-2 {
+    padding: 4 0;
+
+  }
+}

@@ -1,2 +1,2 @@
 # Web-Design-Challenge
-This is a repository for the web design challenge
+This repository exhibits web design capabilities creating HTML web pages with CSS, Bootstrap and Media Queries.
